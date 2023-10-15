@@ -29,4 +29,4 @@ closing `</body>` tag to SB Forms.
 
 ## About
 
-Created and maintained by [Ridhi Jain][mailto:ridhijain821@gmail.com] and [Arundhati Dixit][mailto:arundhatidixit30@gmail.com].
+Created and maintained by [Ridhi Jain](mailto::ridhijain821@gmail.com) and [Arundhati Dixit](mailto::arundhatidixit30@gmail.com).
